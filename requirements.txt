@@ -1,0 +1,6 @@
+Jupyter
+tensorflow
+pandas
+torch
+portalocker
+spacy
